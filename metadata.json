@@ -1,0 +1,5 @@
+{
+  "name": "Cellular Evolution",
+  "description": "A multiplayer-style agar game where you consume pellets to grow, split to capture enemies, and avoid viruses. Features cell splitting, mass ejection, and mechanic merging.",
+  "requestFramePermissions": []
+}
